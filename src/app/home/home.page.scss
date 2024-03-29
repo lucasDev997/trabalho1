@@ -25,3 +25,22 @@
 #container a {
   text-decoration: none;
 }
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #8c8c8c;
+}
+
+.center-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.center-card {
+  max-width: 400px;
+  width: 100%;
+}
