@@ -1,5 +1,7 @@
 {
   "name": "primeiro",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
